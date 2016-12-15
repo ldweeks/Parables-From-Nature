@@ -1,68 +1,35 @@
-### CONTENTS
+# Parables from Nature
 
-[A LESSON OF FAITH](parables.html#faith)
+[Preface](preface.md)
 
-[THE LAW OF AUTHORITY AND OBEDIENCE](parables.html#authority)
+---
 
-[THE UNKNOWN LAND](parables.html#unknown)
-
-[KNOWLEDGE NOT THE LIMIT OF BELIEF](parables.html#knowledge)
-
-[TRAINING AND RESTRAINING](parables.html#training)
-
-[THE LIGHT OF TRUTH](parables.html#light)
-
-[WAITING](parables.html#waiting)
-
-[A LESSON OF HOPE](parables.html#hope)
-
-[THE CIRCLE OF BLESSING](parables.html#circle)
-
-[THE LAW OF THE WOOD](parables.html#law)
-
-[ACTIVE AND PASSIVE](parables.html#active)
-
-[DAILY BREAD](parables.html#bread)
-
-[NOT LOST, BUT GONE BEFORE](parables.html#gone)
-
-[MOTES IN THE SUNBEAM](parables.html#motes)
-
-[RED SNOW](parables.html#red)
-
-[WHEREUNTO?](parables.html#whereunto)
-
-[PURRING WHEN YOU'RE PLEASED](parables.html#purring)
-
-[THE VOICES OF THE EARTH](parables.html#voices)
-
-[THE MASTER OF THE HARVEST](parables.html#master)
-[THE DELIVERER](parables.html#deliverer)
-  235
-
-  [INFERIOR ANIMALS](parables.html#inferior)
-  243
-
-  [THE GENERAL THAW](parables.html#thaw)
-  268
-
-  [THE LIGHT OF LIFE](parables.html#life)
-  280
-
-  [GIFTS](parables.html#gifts)
-  290
-
-  [NIGHT AND DAY](parables.html#night)
-  301
-
-  [KICKING](parables.html#kicking)
-  312
-
-  [IMPERFECT INSTRUMENTS](parables.html#imperfect)
-  338
-
-  [COBWEBS](parables.html#cobwebs)
-  362
-
-  [BIRDS IN THE NEST](parables.html#birds)
-  372
+1. [A Lesson Of Faith](1.md)
+2. [The Law Of Authority And Obedience](2.md)
+3. [The Unknown Land](3.md)
+4. [Knowledge Not The Limit Of Belief](4.md)
+5. [Training And Restraining](5.md)
+6. [The Light Of Truth](6.md)
+7. [Waiting](7.md)
+8. [A Lesson Of Hope](8.md)
+9. [The Circle Of Blessing](9.md)
+10. [The Law Of The Wood](10.md)
+11. [Active And Passive](11.md)
+12. [Daily Bread](12.md)
+13. [Not Lost, But Gone Before](13.md)
+14. [Motes In The Sunbeam](14.md)
+15. [Red Snow](15.md)
+16. [Whereunto?](16.md)
+17. [Purring When You're Pleased](17.md)
+18. [The Voices Of The Earth](18.md)
+19. [The Master Of The Harvest](19.md)
+20. [The Deliverer](20.md)
+21. [Inferior Animals](21.md)
+22. [The General Thaw](22.md)
+23. [The Light Of Life](23.md)
+24. [Gifts](24.md)
+25. [Night And Day](25.md)
+26. [Kicking](26.md)
+27. [Imperfect Instruments](27.md)
+28. [Cobwebs](28.md)
+29. [Birds In The Nest](29.md)
