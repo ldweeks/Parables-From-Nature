@@ -1,1 +1,1 @@
-# Parables-From-Nature
+# Parables From Nature
